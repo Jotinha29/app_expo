@@ -1,0 +1,8 @@
+{
+  "fortunes": [
+    { "id": 1, "message": "Você terá um dia de sorte!" },
+    { "id": 2, "message": "Novas oportunidades estão a caminho." },
+    { "id": 3, "message": "Hoje é um bom dia para aprender algo novo." },
+    { "id": 4, "message": "A sorte sorri para quem trabalha duro." }
+  ]
+}

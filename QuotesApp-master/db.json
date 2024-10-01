@@ -1,0 +1,22 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "image": "https://example.com/images/john-lennon.jpg"
+    },
+    {
+      "id": 2,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "image": "https://example.com/images/steve-jobs.jpg"
+    },
+    {
+      "id": 3,
+      "quote": "Imagination is more important than knowledge.",
+      "author": "Albert Einstein",
+      "image": "https://example.com/images/albert-einstein.jpg"
+    }
+  ]
+}

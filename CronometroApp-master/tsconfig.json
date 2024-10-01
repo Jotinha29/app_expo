@@ -1,0 +1,8 @@
+{
+  // Configuração base para o TypeScript, estendendo as definições do Expo
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    // Ativa o modo estrito
+    "strict": true
+  }
+}
